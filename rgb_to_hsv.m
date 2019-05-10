@@ -1,4 +1,4 @@
-#pkg load image
+pkg load image
 
 I = imread('wally.jpg');
 info = imfinfo('wally.jpg');
